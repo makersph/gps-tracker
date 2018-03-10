@@ -1,0 +1,365 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"parent",
+				"parentElement\t: Element Node"
+			],
+			[
+				"appe",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"create",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"paper-dialog",
+				"paper-dialog\tpaper-dialog"
+			],
+			[
+				"paper-dial",
+				"paper-dialog\tpaper-dialog"
+			],
+			[
+				"paper-di",
+				"paper-dialog\tpaper-dialog"
+			],
+			[
+				"marg",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.ino",
+			"settings":
+			{
+				"buffer_size": 2522,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"last_filter": "projec",
+		"selected_items":
+		[
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/adzadzadz/Projects/makersph/gps-tracker",
+		"/Users/adzadzadz/Projects/makersph/gps-tracker/library"
+	],
+	"file_history":
+	[
+		"/Users/adzadzadz/Projects/makersph/temp/gps-tracker/GSM_void/GSM_void.ino",
+		"/Users/adzadzadz/Library/Arduino15/packages/arduino/hardware/avr/1.6.21/cores/arduino/Print.h",
+		"/Users/adzadzadz/Library/Arduino15/packages/arduino/hardware/avr/1.6.21/cores/arduino/WString.h",
+		"/Users/adzadzadz/Library/Arduino15/packages/arduino/hardware/avr/1.6.21/cores/arduino/Arduino.h",
+		"/Users/adzadzadz/Projects/makersph/gps-tracker/main.ino",
+		"/Users/adzadzadz/Projects/makersph/gps-tracker/library/gps/src/TinyGPS++.h",
+		"/applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h",
+		"/applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h",
+		"/applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h",
+		"/applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/main.cpp",
+		"/Users/adzadzadz/Projects/makersph/gps-tracker/gps.ino",
+		"/Users/adzadzadz/Projects/makersph/gps-tracker/library/gps/test.ino",
+		"/Users/adzadzadz/Projects/makersph/gps-tracker/library/gps/gpsmain.ino",
+		"/Users/adzadzadz/Projects/makersph/gps-tracker/library/gps/tinygps/examples/BasicExample/BasicExample.ino",
+		"/Users/adzadzadz/Projects/makersph/gps-tracker/test.ino",
+		"/Users/adzadzadz/Projects/makersph/gps-tracker/gps/gps.ino",
+		"/Users/adzadzadz/Projects/makersph/gps-tracker/gsm/GSM_void.ino",
+		"/Users/adzadzadz/Projects/makersph/gps-tracker/main/main.ino",
+		"/Users/adzadzadz/Projects/strepz/strepz-fe-frnt/src/components/billing/forms/payment-method.html",
+		"/Users/adzadzadz/Projects/strepz/strepz-fe-frnt/src/components/billing/forms/payment-profile.html",
+		"/Users/adzadzadz/Projects/strepz/strepz-fe-frnt/src/behaviors/user-data-behaviors.html",
+		"/Users/adzadzadz/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/adzadzadz/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/adzadzadz/Library/Application Support/Sublime Text 3/Packages/User/adz-polymer-snippets",
+		"/Users/adzadzadz/Projects/strepz/strepz-fe-frnt/src/components/billing/forms/comp-detail-tabs.html",
+		"/Users/adzadzadz/Projects/strepz/strepz-fe-frnt/src/components/user/fetch-user-info.html",
+		"/Users/adzadzadz/Projects/strepz/strepz-fe-frnt/src/components/project/forms/portfolio-create.html",
+		"/Users/adzadzadz/Projects/strepz/strepz-fe-frnt/src/components/project/forms/project-create.html",
+		"/Users/adzadzadz/Projects/strepz/strepz-fe-frnt/src/pages/guest/strepz-forms.html",
+		"/Users/adzadzadz/Projects/strepz/strepz-fe-frnt/src/behaviors/strepz-localize-behaviors.html",
+		"/Users/adzadzadz/Projects/strepz/strepz-fe-frnt/api-config.js",
+		"/Users/adzadzadz/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/adzadzadz/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setup"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								270
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 17,
+							"color_helper.color_scheme": "Packages/Agila Theme/Agila Monokai Extended.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".ino",
+								"current_syntax": "Stino-Stino-Dev/Arduino",
+								"enabled": false,
+								"last_updated": 1520584391.25
+							},
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Stino-Stino-Dev/Arduino.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 103.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 218.0
+	},
+	"output.stino_panel":
+	{
+		"height": 115.0
+	},
+	"pinned_build_system": "",
+	"project": "gps-tracker-makersph.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/workspaces/strepz-fe-appl.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
